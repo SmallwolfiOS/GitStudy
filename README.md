@@ -9,6 +9,6 @@ Git
 
 	localBranch
 	originMaster
-	localBranch + 1
+	localBranch + 4  masterchanged
 
 
